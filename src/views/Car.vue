@@ -25,6 +25,7 @@ export default {
     'v-something':Something,
     'v-footer':Footer
   },
+  
 
   computed:{
     count(){
